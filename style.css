@@ -288,7 +288,7 @@ body {
   bottom: 0;
   width: 100vw;
   height: 64px;
-  background: #111;
+  background: #000; /* changed from #111 to #000 */
   box-shadow: 0 -1px 8px #0005;
   display: flex;
   justify-content: space-around;
@@ -358,7 +358,7 @@ body {
   position: relative;
   top: -22px;
   z-index: 1;
-  background: #181818;
+  background: #000; /* black */
   border-radius: 50%;
   box-shadow: 0 2px 12px #0006;
   padding: 15px;
